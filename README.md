@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# AI Test
+# AI Test by Maciek
 
 Final project for the Building AI course
 ![image of a cat](/cat_image.jpg)
